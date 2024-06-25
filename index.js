@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Tai's RNG Support Bot", "Moderating The Yappers Society"];
 
 
 let currentIndex = 0;
